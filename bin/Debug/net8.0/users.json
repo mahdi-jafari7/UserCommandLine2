@@ -1,0 +1,12 @@
+[
+  {
+    "Username": "sara",
+    "Password": "mahdi",
+    "IsActive": false
+  },
+  {
+    "Username": "saba",
+    "Password": "ali",
+    "IsActive": true
+  }
+]
